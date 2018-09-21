@@ -1,0 +1,18 @@
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.csprojAssemblyReference.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.csproj.CoreCompileInputs.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.AssemblyInfoInputs.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.AssemblyInfo.cs
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/Projeto.Domain.deps.json
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/Projeto.Domain.deps.json
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.csprojAssemblyReference.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.csproj.CoreCompileInputs.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.AssemblyInfoInputs.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.AssemblyInfo.cs
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/Projeto.Domain.pdb

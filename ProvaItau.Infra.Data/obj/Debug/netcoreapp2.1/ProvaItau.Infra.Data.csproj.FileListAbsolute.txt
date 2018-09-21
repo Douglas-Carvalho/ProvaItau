@@ -1,0 +1,14 @@
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/ProvaItau.Infra.Data.deps.json
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/ProvaItau.Infra.Data.dll
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/ProvaItau.Infra.Data.pdb
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/ProvaItau.Domain.dll
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/ProvaItau.Domain.pdb
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/ProvaItau.Infra.Data.csprojAssemblyReference.cache
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/ProvaItau.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/ProvaItau.Infra.Data.AssemblyInfoInputs.cache
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/ProvaItau.Infra.Data.AssemblyInfo.cs
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/ProvaItau.Infra.Data.csproj.CopyComplete
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/ProvaItau.Infra.Data.dll
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/ProvaItau.Infra.Data.pdb
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/ProvaItau.Infra.Data.runtimeconfig.json
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/ProvaItau.Infra.Data.runtimeconfig.dev.json

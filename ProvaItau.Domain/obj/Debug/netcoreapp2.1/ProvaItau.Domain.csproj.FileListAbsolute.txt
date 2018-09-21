@@ -1,0 +1,9 @@
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/ProvaItau.Domain.deps.json
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/ProvaItau.Domain.dll
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/bin/Debug/netcoreapp2.1/ProvaItau.Domain.pdb
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/ProvaItau.Domain.csprojAssemblyReference.cache
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/ProvaItau.Domain.csproj.CoreCompileInputs.cache
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/ProvaItau.Domain.AssemblyInfoInputs.cache
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/ProvaItau.Domain.AssemblyInfo.cs
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/ProvaItau.Domain.dll
+/Users/douglascarvalho/Desktop/Prova Itau/ProvaItau/ProvaItau.Domain/obj/Debug/netcoreapp2.1/ProvaItau.Domain.pdb

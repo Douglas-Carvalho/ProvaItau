@@ -1,0 +1,51 @@
+﻿@model Projeto.Application.Models.HomeViewModel
+
+<section class="container" style="padding-top: 30px">
+    <div class="row">
+        <div class="col-12 col-md-2 col-lg-2">
+            <label>Numero Chamado para Instalação:</label>
+            <input class="form-control" type="number" id="inputChamado" />
+        </div>
+        <div class="col-12 col-md-1 col-lg-1" style="margin-top: 45px">
+            <button class="btn btn-default" onclick="site.pesquisaChamado()">
+                Tratar
+            </button>
+        </div>
+    </div>
+    <form method="post">
+        <div class="row">
+            <div class="col-12 col-md-2 col-lg-2">
+                <label>Modelo do Modem:</label>
+                @Html.DropDownListFor(model => model.listaEquipamentos, Model.listaEquipamentos, new { @class = "form-control disabled",  id = "selectModelo", disabled="disabled" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-3 col-lg-3">
+                <label>Instalação encerrada?</label>
+                <div>
+                    <input type="radio" id="inputRadioSim"
+                           name="instalacao" value="1" class="radio disabled" disabled onchange="site.validaInstalacaoStatus(this)"/>
+                    <label for="inputRadioSim">Sim</label>
+                </div>
+                <div>
+                    <input type="radio" id="inputRadioNao"
+                           name="instalacao" value="2" class="radio disabled" disabled onchange="site.validaInstalacaoStatus(this)"/>
+                    <label for="inputRadioNao">Não</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2 col-lg-2">
+                <label>Motivo para não instalação</label>
+                @Html.DropDownListFor(model => model.listaMotivos, Model.listaMotivos, new { @class = "form-control disabled", id = "selectMotivo", disabled = "disabled" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-2 col-lg-2">
+                <button id="buttonReportar" class="btn btn-default disabled" disabled>
+                    Reportar
+                </button>
+            </div>
+        </div>
+    </form>
+</section>

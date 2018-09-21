@@ -1,0 +1,32 @@
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.deps.json
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.AssemblyInfo.cs
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.csprojAssemblyReference.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.csproj.CopyComplete
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Service.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Service.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.deps.json
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Service.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/bin/Debug/netcoreapp2.1/Projeto.Service.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.csprojAssemblyReference.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.AssemblyInfoInputs.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.AssemblyInfo.cs
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.csproj.CopyComplete
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/obj/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.pdb

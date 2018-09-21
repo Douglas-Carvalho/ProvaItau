@@ -1,0 +1,28 @@
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.deps.json
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csproj.CoreCompileInputs.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.AssemblyInfoInputs.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.AssemblyInfo.cs
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csprojAssemblyReference.cache
+C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csproj.CopyComplete
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.deps.json
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csprojAssemblyReference.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csproj.CoreCompileInputs.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.AssemblyInfoInputs.cache
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.AssemblyInfo.cs
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csproj.CopyComplete
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.dll
+/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.pdb
