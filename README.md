@@ -1,6 +1,6 @@
 # Prova Itau
 
-Tecnologias Utilizado:
+Tecnologias Utilizadas:
 
 DependencyInjector,
 Ioc,
