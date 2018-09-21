@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{B485BF1C-BFAC-4A52-BDD0-09EEF8A6C632}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProvaItau/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="ProvaItau/Controllers/HomeController.cs" Line="34" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
