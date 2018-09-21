@@ -9,7 +9,7 @@ namespace Projeto.Domain.Entities
             set;
         }
 
-        public ChamadoInstalacao Chamado
+        public int ChamadoId
         {
             get;
             set;

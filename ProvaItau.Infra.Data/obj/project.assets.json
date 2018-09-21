@@ -3684,11 +3684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj",
+      "projectUniqueName": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj",
       "projectName": "Projeto.Infra.Data",
-      "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj",
+      "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj",
       "packagesPath": "/Users/douglascarvalho/.nuget/packages/",
-      "outputPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/obj",
+      "outputPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -3705,8 +3705,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj": {
-              "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj"
+            "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj": {
+              "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj"
             }
           }
         }

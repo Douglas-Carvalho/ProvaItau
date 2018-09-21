@@ -26,3 +26,17 @@ C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaIt
 /Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csproj.CopyComplete
 /Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.dll
 /Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.deps.json
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.dll
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Service.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csprojAssemblyReference.cache
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csproj.CoreCompileInputs.cache
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.AssemblyInfoInputs.cache
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.AssemblyInfo.cs
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.csproj.CopyComplete
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.dll
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/obj/Debug/netcoreapp2.1/Projeto.Service.pdb

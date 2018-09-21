@@ -32,7 +32,7 @@ namespace Projeto.Controllers
                 }
             );
 
-            var listaMotivos = _serviceMotivoAvariaEquipamento.FindAll().Select(x => new SelectListItem
+            var listaMotivos = _serviceMotivoAvariaEquipamento.GetMotivos().Select(x => new SelectListItem
             {
                 Text = x.MotivoAvaria,
                 Value = x.Id.ToString()

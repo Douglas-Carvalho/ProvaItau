@@ -11,6 +11,7 @@ namespace Projeto.Infra.Data.Mapping
             ToTable("MotivoAvariaEquipamento");
             Map(x => x.Id).ToColumn("Id").IsKey();
             Map(x => x.MotivoAvaria).ToColumn("TextoPadraoMotivoAvariaEquipamento");
+            Map(x => x.Responsavel).Ignore();
         }
     }
 }

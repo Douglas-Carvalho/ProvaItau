@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj",
+      "projectUniqueName": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj",
       "projectName": "Projeto.Domain",
-      "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj",
+      "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj",
       "packagesPath": "/Users/douglascarvalho/.nuget/packages/",
-      "outputPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/obj",
+      "outputPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Domain/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

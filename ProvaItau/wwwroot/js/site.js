@@ -63,7 +63,7 @@
 
         debugger;
     
-        if($(elm).val() == 1) {
+        if($(elm).val() == 2) {
             this._selectMotivo.removeClass("disabled");
             this._selectMotivo.prop("disabled", false);
 

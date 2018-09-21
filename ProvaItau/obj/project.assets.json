@@ -11811,11 +11811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau/Projeto.Application.csproj",
+      "projectUniqueName": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/Projeto.Application.csproj",
       "projectName": "Projeto.Application",
-      "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau/Projeto.Application.csproj",
+      "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/Projeto.Application.csproj",
       "packagesPath": "/Users/douglascarvalho/.nuget/packages/",
-      "outputPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau/obj",
+      "outputPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -11832,17 +11832,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj": {
-              "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj"
+            "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj": {
+              "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Domain/Projeto.Domain.csproj"
             },
-            "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/Projeto.Infra.CrossCutting.csproj": {
-              "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.CrossCutting/Projeto.Infra.CrossCutting.csproj"
+            "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.CrossCutting/Projeto.Infra.CrossCutting.csproj": {
+              "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.CrossCutting/Projeto.Infra.CrossCutting.csproj"
             },
-            "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj": {
-              "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj"
+            "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj": {
+              "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/Projeto.Infra.Data.csproj"
             },
-            "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/Projeto.Service.csproj": {
-              "projectPath": "/Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Service/Projeto.Service.csproj"
+            "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/Projeto.Service.csproj": {
+              "projectPath": "/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Service/Projeto.Service.csproj"
             }
           }
         }

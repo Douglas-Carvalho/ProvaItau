@@ -26,3 +26,17 @@ C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaIt
 /Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.csproj.CopyComplete
 /Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
 /Users/douglascarvalho/Downloads/prova-itau-master/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.deps.json
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.runtimeconfig.json
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.runtimeconfig.dev.json
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/Projeto.Domain.dll
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/bin/Debug/netcoreapp2.1/Projeto.Domain.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.csprojAssemblyReference.cache
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.AssemblyInfoInputs.cache
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.AssemblyInfo.cs
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.csproj.CopyComplete
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.dll
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau.Infra.Data/obj/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb

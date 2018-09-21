@@ -3,6 +3,7 @@ namespace Projeto.Domain.Entities
 {
     public class MotivoAvariaEquipamento : BaseEntity
     {
+
         public ResponsavelOrigemAvariaEquipamento Responsavel
         {
             get;

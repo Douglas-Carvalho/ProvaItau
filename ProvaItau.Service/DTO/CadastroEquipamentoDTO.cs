@@ -2,8 +2,18 @@
 
 namespace Projeto.Service.DTO
 {
-    public class ChamadoInstalacaoDTO : BaseEntity
-    {
-        public int Numero { get; set; }
+    public class CadastroEquipamentoDTO : BaseEntity
+	{
+        public string Nome
+        {
+            get;
+            set;
+        }
+
+        public float Preco
+        {
+            get;
+            set;
+        }
     }
 }
