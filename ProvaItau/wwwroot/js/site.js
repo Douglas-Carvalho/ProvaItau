@@ -28,11 +28,10 @@ class Site {
 
      event.preventDefault();
 
+     var self = this;
      var start = new Date();
      var motivoId;
-    
-        debugger;
-        
+
      var atendimento = {
         Data: start.toUTCString(),
         Chamado: {Numero: this._inputChamado.val()}
@@ -66,7 +65,7 @@ class Site {
 
             alert("Atendimento reportado com sucesso");
             
-            if(motivoId == 1) {
+            if(motivoId == 0) {
                 self._selectModelo.addClass("disabled");
                 self._selectModelo.prop("disabled", true);
 
