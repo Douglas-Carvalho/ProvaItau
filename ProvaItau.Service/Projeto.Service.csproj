@@ -16,4 +16,7 @@
     <ProjectReference Include="..\ProvaItau.Domain\Projeto.Domain.csproj" />
     <ProjectReference Include="..\ProvaItau.Infra.Data\Projeto.Infra.Data.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Services\Contracts\EmptyCSharpFile.cs" />
+  </ItemGroup>
 </Project>

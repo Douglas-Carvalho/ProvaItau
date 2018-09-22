@@ -14,10 +14,14 @@ namespace Projeto.Infra.CrossCutting.Ioc
 			services.AddScoped(typeof(IRepositoryChamadoInstalacao), typeof(RepositoryChamadoInstalacao));
             services.AddScoped(typeof(IRepositoryCadastroEquipamento), typeof(RepositoryCadastroEquipamento));
             services.AddScoped(typeof(IRepositoryMotivoAvariaEquipamento), typeof(RepositoryMotivoAvariaEquipamento));
+            services.AddScoped(typeof(IRepositoryAtendimentoChamadoInstalacao), typeof(RepositoryAtendimentoChamadoInstalacao));
+            services.AddScoped(typeof(IRepositoryEquipamentoUtilizadoAtendimentoChamadoInstalacao), typeof(RepositoryEquipamentoUtilizadoAtendimentoChamadoInstalacao));
 
             services.AddTransient(typeof(IServiceChamadoInstalacao), typeof(ServiceChamadoInstalacao));
             services.AddTransient(typeof(IServiceCadastroEquipamento), typeof(ServiceCadastroEquipamento));
             services.AddTransient(typeof(IServiceMotivoAvariaEquipamento), typeof(ServiceMotivoAvariaEquipamento));
+            services.AddTransient(typeof(IServiceAtendimentoChamadoInstalacao), typeof(ServiceAtendimentoChamadoInstalacao));
+            services.AddTransient(typeof(IServiceEquipamentoUtilizadoAtendimentoChamadoInstalacao), typeof(ServiceEquipamentoUtilizadoAtendimentoChamadoInstalacao));
 
             services.AddSingleton(typeof(ApplicationContext));
 		}

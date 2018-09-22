@@ -9,7 +9,7 @@ namespace Projeto.Infra.Data.Mapping
         public CadastroEquipamentoMap()
         {
             ToTable("CadastroEquipamento");
-            Map(x => x.Id).ToColumn("Id").IsKey();
+            Map(x => x.Id).ToColumn("Id").IsKey().IsIdentity();
             Map(x => x.Nome).ToColumn("NomeEquipamento");
             Map(x => x.Preco).ToColumn("PrecoEquipamento");
         }

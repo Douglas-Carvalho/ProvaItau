@@ -9,7 +9,7 @@ namespace Projeto.Infra.Data.Mapping
         public ResponsavelOrigemAvariaEquipamentoMap()
         {
             ToTable("ResponsavelOrigemAvariaEquipamento");
-            Map(x => x.Id).ToColumn("Id").IsKey();
+            Map(x => x.Id).ToColumn("Id").IsKey().IsIdentity();
             Map(x => x.Responsavel).ToColumn("NomeGrupoResponsavelOrigemAvariaEquipamento");
         }
     }

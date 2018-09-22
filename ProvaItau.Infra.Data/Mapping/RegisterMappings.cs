@@ -15,6 +15,8 @@ namespace Projeto.Infra.Data.Mapping
                 config.AddMap(new CadastroEquipamentoMap());
                 config.AddMap(new MotivoAvariaEquipamentoMap());
                 config.AddMap(new ResponsavelOrigemAvariaEquipamentoMap());
+                config.AddMap(new AtendimentoChamadoInstalacaoMap());
+                config.AddMap(new EquipamentoUtilizadoAtendimentoChamadoInstalacaoMap());
                 config.ForDommel();
             });
         }

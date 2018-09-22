@@ -11,7 +11,7 @@ namespace Projeto.Service.DTO
             set;
         }
 
-        public int ChamadoId
+        public ChamadoInstalacaoDTO Chamado
         {
             get;
             set;

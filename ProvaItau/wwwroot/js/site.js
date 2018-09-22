@@ -1,4 +1,16 @@
-﻿class Site {
+﻿class Chamado {
+    constructor(numero) {
+        this.Numero = numero;
+    }
+
+    
+}
+
+var chamado = new Chamado(1);
+
+
+
+class Site {
     constructor() {
 
         this._inputChamado = $("#inputChamado");
@@ -12,18 +24,78 @@
     _init() {
     }
 
+    async registraAtendimento(event) {
+
+     event.preventDefault();
+
+     var start = new Date();
+     var motivoId;
+    
+        debugger;
+        
+     var atendimento = {
+        Data: start.toUTCString(),
+        Chamado: {Numero: this._inputChamado.val()}
+     }
+
+     if($(".radio:checked").val() == "2") {
+         motivoId = parseInt(this._selectMotivo.val());
+     } else {
+         motivoId = 0;
+     }
+
+     var equipamento = {
+        equipamento: {Id: parseInt(this._selectModelo.val())},
+        atendimento: atendimento,
+        motivo: {Id: motivoId}
+     } 
+
+     var param = {
+        atendimento: atendimento,
+        equipamento: equipamento
+     }
+
+
+     $.ajax({
+        type: 'POST',
+        url: 'http://localhost:5000/Home/RegistraAtendimento',
+        dataType: 'json',
+        contentType: 'application/json',
+        data: JSON.stringify(param),
+        success: function(result) {
+
+            alert("Atendimento reportado com sucesso");
+            
+            if(motivoId == 1) {
+                self._selectModelo.addClass("disabled");
+                self._selectModelo.prop("disabled", true);
+
+                self._inputRadio.addClass("disabled");
+                self._inputRadio.prop("disabled", true);
+
+                self._selectMotivo.addClass("disabled");
+                self._selectMotivo.prop("disabled", true);
+
+                self._buttonReportar.addClass("disabled");
+                self._buttonReportar.prop("disabled", true);
+            }
+        }
+     });
+ 
+ }
+
     async pesquisaChamado() {
 
         var self = this;
     
         await $.ajax({
-          url: 'http://localhost:5000/Home/GetChamado',
+          url: 'http://localhost:5000/Home/ValidaAtendimentoChamado',
           type: 'GET',
-          data: {number: self._inputChamado.val()}
+          data: {numeroChamado: self._inputChamado.val()}
         }).then(
             function fulfillHandler(data) {
 
-                if (data == null) {
+                if (data == 0) {
                
                     alert("Este chamado não está aberto!");
 
@@ -61,8 +133,6 @@
 
     validaInstalacaoStatus(elm) {
 
-        debugger;
-    
         if($(elm).val() == 2) {
             this._selectMotivo.removeClass("disabled");
             this._selectMotivo.prop("disabled", false);

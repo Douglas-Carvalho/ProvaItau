@@ -12,7 +12,7 @@
             </button>
         </div>
     </div>
-    <form method="post">
+    <form method="post" onsubmit="site.registraAtendimento(event)">
         <div class="row">
             <div class="col-12 col-md-2 col-lg-2">
                 <label>Modelo do Modem:</label>
@@ -42,9 +42,7 @@
         </div>
         <div class="row">
             <div class="col-12 col-md-2 col-lg-2">
-                <button id="buttonReportar" class="btn btn-default disabled" disabled>
-                    Reportar
-                </button>
+                <input type="submit" id="buttonReportar" class="btn btn-default disabled" disabled />
             </div>
         </div>
     </form>

@@ -5,7 +5,7 @@ using System.Text;
 namespace Projeto.Service.Services.Contracts
 {
 	public interface IServiceBase<TEntityDTO>
-		where TEntityDTO : class
+		where TEntityDTO : class 
 	{
 		void Add(TEntityDTO item);
 		void Remove(int id);

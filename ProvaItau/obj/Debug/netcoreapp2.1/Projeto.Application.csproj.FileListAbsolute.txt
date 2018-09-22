@@ -87,7 +87,6 @@ C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaIt
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/bin/Debug/netcoreapp2.1/Projeto.Infra.CrossCutting.pdb
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/bin/Debug/netcoreapp2.1/Projeto.Infra.Data.pdb
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/bin/Debug/netcoreapp2.1/Projeto.Service.pdb
-/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.csprojAssemblyReference.cache
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.csproj.CoreCompileInputs.cache
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.RazorAssemblyInfo.cache
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.RazorAssemblyInfo.cs
@@ -109,3 +108,4 @@ C:/Users/douglascarvalho-mtz/Desktop/projeto/master/Prova Itau/ProvaItau/ProvaIt
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.csproj.CopyComplete
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.dll
 /Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.pdb
+/Users/douglascarvalho/Desktop/repoitau/ProvaItau/ProvaItau/obj/Debug/netcoreapp2.1/Projeto.Application.csprojAssemblyReference.cache

@@ -9,7 +9,7 @@ namespace Projeto.Infra.Data.Mapping
         public ChamadoInstalacaoMap()
         {
             ToTable("ChamadoInstalacao");
-            Map(x => x.Id).ToColumn("Id").IsKey();
+            Map(x => x.Id).ToColumn("Id").IsKey().IsIdentity();
             Map(x => x.Numero).ToColumn("NumeroChamado");
         }
     }

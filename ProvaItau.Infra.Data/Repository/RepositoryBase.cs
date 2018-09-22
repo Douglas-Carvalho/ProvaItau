@@ -8,7 +8,7 @@ using Projeto.Infra.Data.Repository.Contracts;
 
 namespace Projeto.Infra.Data.Repository
 {
-	public class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity : class
+    public class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity : class
 	{
 		public string ConnectionString { get; private set; }
 
@@ -17,10 +17,24 @@ namespace Projeto.Infra.Data.Repository
 			ConnectionString = applicationContext.GetConnectioString();
 		}
 		
-		public void Add(TEntity item)
+        public void Add(TEntity item)
 		{
-			throw new NotImplementedException();
-		}
+            try
+            {
+                using (var conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Insert<TEntity>(item);
+                }
+            }
+            catch (SqlException ex)
+            {
+                throw ex;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
 		public IEnumerable<TEntity> FindAll()
 		{

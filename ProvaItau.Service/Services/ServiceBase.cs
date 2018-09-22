@@ -21,8 +21,19 @@ namespace Projeto.Service.Services
 
 		public void Add(TEntityDTO item)
 		{
-			throw new NotImplementedException();
-		}
+            try
+            {
+                _repositoryBase.Add(_mapper.Map<TEntity>(item));
+            }
+            catch (AutoMapperMappingException ex)
+            {
+                throw ex;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
 		public IEnumerable<TEntityDTO> FindAll()
 		{
